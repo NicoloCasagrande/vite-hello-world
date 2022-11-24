@@ -1,5 +1,6 @@
 <script>
   export default{
+    name: 'AppHero',
     data(){
       return {
         title: 'Titolo hero', 

@@ -1,5 +1,6 @@
 <script>
   export default{
+    name: 'HelloWorld',
     data(){
       return {
         title: 'Titolo pagina'
